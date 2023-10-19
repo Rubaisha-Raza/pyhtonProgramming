@@ -1,0 +1,10 @@
+ #CREATING TUPLES 
+t1 = (1,2,3,4,5)
+print(t1)
+# EMPTY TUPLE
+t2 = ()
+print(t2)
+#TUPLE WITH ONE ELEMENT 
+t3 = (1,) #COMMA IS THE INDICATION OF TUPLE (for the tuple with single element)
+
+#TUPLES ELEMENTS CAN NOT BE ALTERED OR MANIPULATE

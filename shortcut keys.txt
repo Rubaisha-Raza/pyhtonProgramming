@@ -1,0 +1,8 @@
+multiple line comments shortcut 
+ctrl+/
+
+double cursor
+Alt+mouseclick
+
+
+
